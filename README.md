@@ -1,7 +1,7 @@
 # sc-jnmf
 ![main_fig](/fig/fig.png)
 ## Installing
-` git clone https://github.com/agis09/sc-jnmf`
+` git clone https://github.com/agis09/sc-jnmf`  
 ` pip install sc-jnmf`
 
 ## Usage
