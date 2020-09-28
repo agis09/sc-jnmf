@@ -2,8 +2,9 @@
 ![main_fig](/fig/fig.png)
 
 ## Requirement
-` Ubuntu 18.04`  
-` Python >= 3.6`  
+- Ubuntu==18.04
+- CUDA==10.0
+- Python>=3.6
 
 ## Installing
 ` git clone https://github.com/agis09/sc-jnmf`  
