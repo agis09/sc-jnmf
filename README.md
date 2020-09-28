@@ -3,8 +3,10 @@
 
 ## Requirement
 - Ubuntu==18.04
-- CUDA==10.0
+- CUDA==10.0 (gpu required)
 - Python>=3.6
+
+(This tool is developed under the docker image [nvidia/cuda:10.0-cudnn7-devel-ubuntu18.04](https://hub.docker.com/layers/nvidia/cuda/10.0-cudnn7-devel-ubuntu18.04/images/sha256-3ce355415152dfc1eb9145d3d8bbb4b901de16b2a005b068ed48e5e182375a1d?context=explore))
 
 ## Installing
 ` git clone https://github.com/agis09/sc-jnmf`  
