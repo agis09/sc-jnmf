@@ -1,5 +1,10 @@
 # sc-jnmf
 ![main_fig](/fig/fig.png)
+
+## Requirement
+` Ubuntu 18.04`  
+` Python >= 3.6`  
+
 ## Installing
 ` git clone https://github.com/agis09/sc-jnmf`  
 ` pip install ./sc-jnmf`
