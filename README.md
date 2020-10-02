@@ -1,4 +1,7 @@
 # sc-jnmf
+
+Single-cell clustering method using multiple gene expression profiles.
+See the paper: https://www.biorxiv.org/content/10.1101/2020.09.30.319921v1
 ![main_fig](/fig/fig.png)
 
 ## Requirement
